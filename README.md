@@ -1,9 +1,9 @@
 Installation steps:
 
-Download and unzip yt-cleaner.zip
+Download and unzip youtube-debloater.zip
 Open Chrome and go to chrome://extensions
 Enable Developer mode (top-right toggle)
-Click "Load unpacked" and select the yt-cleaner folder
+Click "Load unpacked" and select the youtube-debloater folder
 The extension icon will appear in your toolbar
 
 What it does:
